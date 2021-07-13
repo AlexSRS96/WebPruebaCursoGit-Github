@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-align: center;
+    color: #ef4918;
+}
+div.contenido {
+    background-color: white;
+}
+h3 {
+    font-family: monospace;
+}
+
+span#code-bagde {
+    color: white;
+    font-size: 2.9rem;
+}
+div.nav {
+    background-color: rgb(77, 74, 74);
+    display: flex;
+    justify-content: center;
+}
+
+nav ul.list li {
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style: none;
+    display: inline;
+}
+ul.list li a {
+    text-decoration: none;
+    color:white;
+    background-color: #ef4918;
+    padding: 16px;
+}
+nav ul.list {
+    display: inline-block;
+}
+
