@@ -31,3 +31,4 @@ btnDecremenr.addEventListener("click", () => {
     }
 });
 
+console.log("Gracias por su visita");
