@@ -132,7 +132,7 @@ section p {
 button {
     cursor: pointer;
 }
-section button#btn-buy {
+section button.btn-buy {
     margin-left: 88px;
     margin-top: 15px;
     padding: 8px;
