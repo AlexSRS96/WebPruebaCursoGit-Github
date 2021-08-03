@@ -32,3 +32,5 @@ btnDecremenr.addEventListener("click", () => {
 });
 
 console.log("Si encuentras esto eres programador o tienes conocimientos sobre el desarrollo web");
+
+// Nuestro colaborador podra agregar contenido
