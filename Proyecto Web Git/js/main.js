@@ -31,9 +31,9 @@ btnDecremenr.addEventListener("click", () => {
     }
 });
 
-console.log("Si encuentras esto eres programador o tienes conocimientos sobre el desarrollo web");
+conle.log("Si encuentras esto eres programador o tienes conocimientos sobre el desarrollo web");
 
 // Nuestro colaborador podra agregar contenido
 
-console.log("Gracias por visitar mi pagina");
+conso.log("Gracias por visitar mi pagina");
 
