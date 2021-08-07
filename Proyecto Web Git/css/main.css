@@ -179,3 +179,8 @@ input {
     text-align: center;
     -webkit-appearance: none;
 }
+/*Banner*/
+div.banner img {
+    width: 800px;
+    margin: 15px 0 25px 210px;
+}
