@@ -23,6 +23,18 @@ h1 {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h2 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: #ef4918;
+}
+h4 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: #ef4918;
+}
+ul li {
+    list-style: none;
+    color: white;
+}
 div.contenido {
     background-color: white;
 }
